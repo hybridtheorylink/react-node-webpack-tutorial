@@ -1,0 +1,6 @@
+react web 脚手架
+使用babel编译react
+使用webpack打包
+使用nodejs后端服务器
+使用superiver 为nodejs热部署
+使用webpack-dev-loader 热部署
